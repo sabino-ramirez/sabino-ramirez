@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Sabino
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate with Svelte devs.
+- 👋 Hi, I’m sabino
 - 📫 How to reach me: sabinoramirez017@gmail.com
 
 <!---
